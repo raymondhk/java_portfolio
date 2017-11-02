@@ -1,0 +1,31 @@
+#main_links{
+	margin-top: 75px;
+}
+
+.box{
+	border: 1px solid gray;
+	padding: 5px;
+	height: 70px;
+	border-radius: 5px;
+}
+
+.profile_box{
+	border: 1px solid gray;
+	height: 200px;
+	width: 150px;
+	border-radius: 5px;
+}
+
+.project_box {
+	border: 1px solid gray;
+	height: 300px;
+	border-radius: 5px;
+}
+
+.info{
+	margin-top: 50px;
+}
+
+.footer{
+	margin-top: 100px;
+}
